@@ -26,12 +26,10 @@ NODE_ENV=development
 
 ```
 npm run buid
-
 ```
 
 ## Start the app
 
 ```
 npm start
-
 ```
