@@ -20,8 +20,8 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
-NODE_ENV=development```
-
+NODE_ENV=development
+```
 ## Build the app
 
 ```npm run buid
