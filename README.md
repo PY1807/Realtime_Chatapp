@@ -24,10 +24,14 @@ NODE_ENV=development
 ```
 ## Build the app
 
-```npm run buid
+```
+npm run buid
+
 ```
 
 ## Start the app
 
-```npm start
+```
+npm start
+
 ```
